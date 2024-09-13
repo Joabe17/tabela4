@@ -1,0 +1,19 @@
+table{
+    border: 2px; 
+}
+td, th{
+    border: 2px dotted;
+    padding: 10px;
+
+}
+
+table{
+    width: 100%;
+    border-collapse: 4;
+}
+
+.image{
+    background-image: url('../img/img.jpg');
+    background-size: cover;
+    height: 400px;
+}
